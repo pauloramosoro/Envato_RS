@@ -1,6 +1,6 @@
 # Envato_RS
 
-##In this repository you will find a real estate investment project in Mexico. Please follow the next folder structure to navigate in the repository
+## In this repository you will find a real estate investment project in Mexico. Please follow the next folder structure to navigate in the repository
 
 **Open Envato/**
 
@@ -16,4 +16,4 @@
 
 **SQLquerys**: Are the queries used to extract the information
 
-##You are free to download the full repository and run the code locally as the paths for source and results are relative.
+## You are free to download the full repository and run the code locally as the paths for source and results are relative.
