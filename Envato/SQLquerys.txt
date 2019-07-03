@@ -1,0 +1,21 @@
+select * from `properati-data-public.properties_mx.properties_sell_201501` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201502` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201503` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201504` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201505` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201506` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201507` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201508` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201509` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201510` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201511` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201512` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201601` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201602` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201603` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201604` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201605` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201606` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201607` UNION ALL `properati-data-public.properties_mx.properties_sell_201608` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201609` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201610` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201611` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201612` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201701` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201702` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201703` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201704` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201705` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201706` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201707` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201708` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201709` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201710` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201711` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201712` 
+UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201801` UNION ALL select * from `properati-data-public.properties_mx.properties_sell_201802`
+
+
